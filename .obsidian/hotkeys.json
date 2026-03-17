@@ -1,0 +1,32 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "c4154335578741c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0177ffa3992f46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6b253928e7b28a",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "616326ea0c2c4329",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b27a37f3db89456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331c25a8051ebb29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3823e9c21d541a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d9015e7028c20206",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bf0703c4f45421d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa27b37f27261b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efd78713adda629",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Шар. Общие сведения.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Шар. Общие сведения"
+            }
+          },
+          {
+            "id": "f388a06f6a659c32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Шар. Общие сведения.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Шар. Общие сведения"
+            }
+          },
+          {
+            "id": "bed17a77c57eb714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d04bf53da97395c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Шар. Общие сведения.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Шар. Общие сведения"
+            }
+          },
+          {
+            "id": "30ce182b2cd774e7",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "6de72d3e8a6f6443",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "be097db97b001c8f",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "1f6b253928e7b28a",
+  "lastOpenFiles": [
+    "Линукс.Команды.md",
+    "Конспекты.md",
+    "Математика. Тригонометрия.md",
+    "Идея.md",
+    "Физика.Термодинамика.md",
+    "Физика.Тепловые Машины. Кпд.md",
+    "Физика.Калориметрия.md",
+    "Pasted image 20260312075445.png",
+    "Pasted image 20260312073742.png",
+    "Pasted image 20260312073459.png",
+    "Pasted image 20260312071652.png",
+    "Pasted image 20260312070718.png",
+    "Pasted image 20260312065604.png",
+    "Pasted image 20260312065546.png",
+    "Pasted image 20260312064540.png",
+    "Pasted image 20260310205500.png",
+    "Pasted image 20260310205401.png",
+    "Шар. Общие сведения.md",
+    "Призмы. Общие сведения.md",
+    "Пирамиды. Общие сведения.md",
+    "Ромб.md",
+    "Египетский треугольник.md",
+    "Соцопросы для знакомства и оценки.md",
+    "Математика. Стереометрия.md",
+    "Деньги.md",
+    "Математика. Планиметрия.md",
+    "Признаки Парралельности Прямых.md",
+    "Про свободу и страдание (По старому инквизитору).md",
+    "БАЗА про жизнь.md",
+    "Самодисциплина/Зачем ты это делаешь.md",
+    "Поговоим о Боге.md",
+    "Про то, как важно слушать.md",
+    "Про мечту.md",
+    "Почему невозможно быть счастливым.md",
+    "Что делать в жизни то.md",
+    "Цели.md",
+    "687_1-speakout-3rd-b1-students-book_2022.pdf",
+    "Excalidraw",
+    "Без названия.canvas",
+    "Шаблоны",
+    "Про Мир",
+    "Самодисциплина",
+    "Гайды на Обсидиан",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas"
+  ]
+}
