@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e0177ffa3992f46",
+        "id": "7e9a09f97b5726b1",
         "type": "tabs",
         "children": [
           {
-            "id": "1f6b253928e7b28a",
+            "id": "72d7c324b6b2c7f0",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -193,11 +193,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f6b253928e7b28a",
+  "active": "72d7c324b6b2c7f0",
   "lastOpenFiles": [
+    "Гитхаб тестовый файл.md",
     "Линукс.Команды.md",
     "Конспекты.md",
     "Математика. Тригонометрия.md",
@@ -233,7 +235,6 @@
     "Про мечту.md",
     "Почему невозможно быть счастливым.md",
     "Что делать в жизни то.md",
-    "Цели.md",
     "687_1-speakout-3rd-b1-students-book_2022.pdf",
     "Excalidraw",
     "Без названия.canvas",
