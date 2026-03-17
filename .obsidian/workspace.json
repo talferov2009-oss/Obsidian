@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e9a09f97b5726b1",
+        "id": "eae5e6126fe856ac",
         "type": "tabs",
         "children": [
           {
-            "id": "72d7c324b6b2c7f0",
+            "id": "42d904b9f30d6cf2",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72d7c324b6b2c7f0",
+  "active": "42d904b9f30d6cf2",
   "lastOpenFiles": [
+    "Гитхаб тестовый файл 12313.md",
     "Гитхаб тестовый файл.md",
     "Линукс.Команды.md",
     "Конспекты.md",
@@ -234,7 +235,6 @@
     "Про то, как важно слушать.md",
     "Про мечту.md",
     "Почему невозможно быть счастливым.md",
-    "Что делать в жизни то.md",
     "687_1-speakout-3rd-b1-students-book_2022.pdf",
     "Excalidraw",
     "Без названия.canvas",
