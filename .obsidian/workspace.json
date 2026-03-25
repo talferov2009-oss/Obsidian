@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eae5e6126fe856ac",
+        "id": "d855bdae6a607846",
         "type": "tabs",
         "children": [
           {
-            "id": "808c4243edc87223",
+            "id": "c2d03fe1026b5a49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Контролируемые заранее, до процесса.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Контролируемые заранее, до процесса"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -201,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "808c4243edc87223",
+  "active": "c2d03fe1026b5a49",
   "lastOpenFiles": [
     "Эякуляции.md",
     "Контролируемые заранее, до процесса.md",
