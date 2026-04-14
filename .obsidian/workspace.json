@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d759244d5c6a7af3",
+        "id": "8055e7e8301b66d5",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0e68361d6df54f",
+            "id": "eeb3d808bef5bf44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика. Логарифм.md",
+                "file": "14.03.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Математика. Логарифм"
+              "title": "14.03.26"
             }
           }
         ]
@@ -201,11 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b0e68361d6df54f",
+  "active": "eeb3d808bef5bf44",
   "lastOpenFiles": [
+    "14.03.26.md",
+    "Математика. Логарифм.md",
     "Рутина .md",
     "Математика. Тригонометрия.md",
-    "Математика. Логарифм.md",
     "Конспекты.md",
     "Эякуляции.md",
     "Контролируемые заранее, до процесса.md",
@@ -238,7 +239,6 @@
     "Математика. Планиметрия.md",
     "Признаки Парралельности Прямых.md",
     "Про свободу и страдание (По старому инквизитору).md",
-    "БАЗА про жизнь.md",
     "687_1-speakout-3rd-b1-students-book_2022.pdf",
     "Excalidraw",
     "Без названия.canvas",
