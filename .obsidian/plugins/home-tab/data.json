@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Шаблоны/Шаблон для дневника.md",
+      "timestamp": 1776260100029
+    },
+    {
+      "filepath": "Шаблоны/Шаблон для рандомных коротких мыслей.md",
+      "timestamp": 1776260099131
+    },
+    {
+      "filepath": "Гайды на Обсидиан/Обсидиан. Плагины.md",
+      "timestamp": 1776259879795
+    },
+    {
       "filepath": "15.03.26.md",
       "timestamp": 1776258938736
     },
     {
       "filepath": "14.03.26.md",
       "timestamp": 1776258920612
-    },
-    {
-      "filepath": "2025-10-15.md",
-      "timestamp": 1776258905698
     }
   ],
   "bookmarkedFileStore": [
