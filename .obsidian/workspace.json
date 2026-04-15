@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8055e7e8301b66d5",
+        "id": "85ac4484d4782ab3",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb3d808bef5bf44",
+            "id": "b8c430f8dede9ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "14.03.26"
             }
+          },
+          {
+            "id": "cd21f55800952456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15.03.26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15.03.26"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,9 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeb3d808bef5bf44",
+  "active": "cd21f55800952456",
   "lastOpenFiles": [
+    "15.03.26.md",
     "14.03.26.md",
+    "2025-10-15.md",
     "Математика. Логарифм.md",
     "Рутина .md",
     "Математика. Тригонометрия.md",
@@ -237,8 +254,6 @@
     "Математика. Стереометрия.md",
     "Деньги.md",
     "Математика. Планиметрия.md",
-    "Признаки Парралельности Прямых.md",
-    "Про свободу и страдание (По старому инквизитору).md",
     "687_1-speakout-3rd-b1-students-book_2022.pdf",
     "Excalidraw",
     "Без названия.canvas",
