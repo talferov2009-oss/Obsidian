@@ -28,5 +28,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
